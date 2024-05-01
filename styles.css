@@ -172,6 +172,12 @@ html {
   font-family: 'Source Sans 3', sans-serif;
   font-size: 1.15em;
   color: #9F9F9F;
+  cursor: pointer;
+}
+
+.pet-filter .active {
+  color: #475AFF;
+  text-decoration: underline;
 }
 
 .site-footer p {
